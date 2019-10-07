@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TiVi2020</string>
+    <string name="descrip_boiaicap">Xem Bói đoán Tính Cách, Công Việc,  Tình Duyên</string>
+    <string name="boi_egypt">Bói Ai Cập</string>
+    <string name="three_dot">...</string>
+    <string name="label_name">Họ Tên</string>
+    <string name="btn_result">XEM KẾT QUẢ</string>
+    <string name="parent">Năm sinh</string>
+    <string name="label_lunar">Năm âm lịch:</string>
+    <string name="boi_chontinhyeu">Chọn tuổi vợ chồng</string>
+    <string name="descrip_chontinhyeu">Xem Tuổi Hợp Xung để Chọn Vợ, Chọn Chồng</string>
+    <string name="gender1">Nam</string>
+    <string name="gender2">Nữ</string>
+    <string name="person">Bạn là:</string>
+    <string name="label_calendar">Năm dương lịch:</string>
+    <string name="hello_world">Hello world !</string>
+    <string name="boi_tinh_duyen">Bói tình duyên</string>
+    <string name="descrip_tinhduyen">Xem Đường Tình Duyên cho Đôi Lứa</string>
+    <string name="label_birthDay">Ngày sinh(DL):</string>
+    <string name="title_result">Kết quả</string>
+</resources>
